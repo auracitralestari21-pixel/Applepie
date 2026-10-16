@@ -5,9 +5,9 @@ html {
 h1 {
     text-align: center;
     color: blue;
-    font-weight: bold;
-    font-family: Times New roman, sans-serif;
-    padding-left: 10px;
+    font-weight: bold; 
+    text-shadow: 1px 1px 2px
+    #888888;
 }
 p {
     font-size: 14px;
